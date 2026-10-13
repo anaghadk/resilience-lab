@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Editors and operating systems
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Test outputs and temporary files
+*.log
+.pytest_cache/
