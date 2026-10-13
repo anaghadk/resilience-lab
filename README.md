@@ -361,12 +361,3 @@ This project provided hands-on experience with containerisation, Kubernetes depl
 
 It also demonstrates how to investigate scaling behaviour and validate recovery through controlled experiments.
 
-## Author
-
-**YOUR NAME**
-
-GitHub: [YOUR-GITHUB-PROFILE](https://github.com/YOUR-USERNAME)
-
----
-
-*Built as a hands-on project to explore resilient microservices and Kubernetes operations.*
